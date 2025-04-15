@@ -14,8 +14,3 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnolo
 - Banco de Dados: PostgreSQL, MongoDB
 - Ferramentas: Git, Docker, Prisma
 
-## Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=turner404&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-
-Obrigado por visitar meu perfil! 🚀
